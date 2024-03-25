@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+    font-family: Arail;
+}
+.navbar ul{
+    list-style: none;
+    padding: o;
+    margin: o;
+}
+.navbar li{
+    display: inline-block;
+    justify-content: center;
+}
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display:block
+}
+nav{
+    padding: 10px;
+    background: #470147;
+
+}
+
+
+.sass{
+    -webkit-text-fill-color: rgba(25, 8, 23, 0.123);
+
+
+}
+
+.unique{
+    background-color: hsla(291, 95%, 16%, 0.075);
+    color: blue;
+    text-underline-position: below;
+}
+
+.hello{
+    height: 50px;
+    width: 110px;
+    background-color: rgb(23, 4, 1);
+    color: #fff;
+    text-transform: capitalize;
+}
+.good{
+    height: 50px;
+    width: 120px;
+    background-color: #6b0f6b;
+    color: #fff;
+    border: 3px solid black;
+    text-transform: capitalize;
+
+}
+.bt{
+    front-family: "roboto", sans-serif;
+    front-size: 18px;
+    front-weight: bold;
+    background-color: green;
+    width: 160px;
+    padding: 20px;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(red, green, blue);
+    -webkit-transform-duration: 0.3s;
+
+}
+
+.bt:hover, .bt:focus, .bt:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.resume{
+    color: rgb(238, 241, 235);
+    height: px;
+    width: 2500;
+    background-color: rgb(12, 23, 1);
+    text-transform: capitalize;
+}
+
+.white{
+    background-color: rgb(12, 23, 1);
+    height: 150px;
+    
+}
+.lorem{
+    color: #fff;
+}
+
+.cu{
+    color: rgb(255, 0, 140);
+    text-transform: uppercase;
+    text-family: roboto
+}
